@@ -20,14 +20,25 @@ My name is 🧑Jackson from Manipur, India.🌏 I have completed my master degre
 
 ### Language & Technologies
 
-![Html5 Badge](https://img.shields.io/badge/-html5-f06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=f06529)
-![Css3 Badge](https://img.shields.io/badge/-css3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)
-![Bootstrap4 Badge](https://img.shields.io/badge/-bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
-![Sass Badge](https://img.shields.io/badge/-sass-cc6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=cc6699)
-![Php Badge](https://img.shields.io/badge/-Php-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)
-![Yii2 Badge](https://img.shields.io/badge/-Yii2-3B6FBA?style=for-the-badge&labelColor=black&logo=yii&logoColor=3B6FBA)
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![JQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)
-![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Postgresql Badge](https://img.shields.io/badge/-postgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)
-![Phpmyadmin Badge](https://img.shields.io/badge/-phpmyadmin-F29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F29111)
+<img align="left" alt="HTML5" width="26px" style="margin-right: 2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" style="margin-right: 2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+<img align="left" alt="Bootstrap" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Sass" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JQuery" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="React" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Php" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="Yii2" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yii/yii.png" />
+<img align="left" alt="MySql" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Postgresql" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="vscode" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Jackson K's GitHub Stats" src="https://github-readme-stats.Jacks0nK52.vercel.app/api?username=Jacks0nK52&show_icons=true&hide_border=true" />
+
+</details>
