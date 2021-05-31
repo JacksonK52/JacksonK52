@@ -1,10 +1,7 @@
 ## Hello there, I'm [Jackson Konjengbam](https://jackportfolio.ga) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-## Short Introduction!
-
-My name is 🧑Jackson from Manipur, India.🌏 I have completed my master degree👨‍🎓 on MSc Information Technology. I speak 3 languages manipuri, english and hindi. Currently working as a 👨‍💻software engineer at [A-Novative Technologies](https://www.anovativetech.com/?fbclid=IwAR31sQ0n91OIXf6uCmIJKKfMaotNg30jv9N_W07I1LNSjhJiOG5GuWahtO4).
-
 - 👨‍💻 I'm a Php web developer using Yii2 framework.
+- 🏢 I'm a software engineer at [A-Novative Technologies](https://www.anovativetech.com/?fbclid=IwAR31sQ0n91OIXf6uCmIJKKfMaotNg30jv9N_W07I1LNSjhJiOG5GuWahtO4).
 - 👷‍♂️ I'm working on e-commerce website project.
 - 📖 I'm learning React Currently.
 - 🔧 I would love too work on collaboration project.
