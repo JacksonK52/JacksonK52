@@ -2,8 +2,6 @@
 
 - 👨‍💻 I'm a Php web developer using Yii2 framework.
 - 🏢 I'm a software engineer at [A-Novative Technologies](https://www.anovativetech.com/?fbclid=IwAR31sQ0n91OIXf6uCmIJKKfMaotNg30jv9N_W07I1LNSjhJiOG5GuWahtO4).
-- 👷‍♂️ I'm working on e-commerce website project.
-- 📖 I'm learning React Currently.
 - 🔧 I would love too work on collaboration project.
 - 📞 How to reach me: Twitter - @Jacks0nK1.
 - ⚡ Fun fact: I love  landscape photography.
