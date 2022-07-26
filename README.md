@@ -8,7 +8,7 @@
 
 ### Contact me:
 
-[![Website Badge](https://img.shields.io/badge/-Portfolio-8E44AD?style=flat)](https://jackportfolio.ga) 
+[![Website Badge](https://img.shields.io/badge/-Portfolio-8E44AD?style=flat)](https://jacksonkonjengbam.000webhostapp.com/) 
 [![LinkedIn Badge](https://img.shields.io/badge/-Jackson%20Konjengbam-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://twitter.com/Jacks0nK1)](https://linkedin.com/in/jackson-konjengbam/)
 [![Twitter Badge](https://img.shields.io/badge/-@Jacks0nK1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jacks0nK1)](https://twitter.com/intent/follow?original_referer=https://github.com/JacksonK52&screen_name=Jacks0nK1) 
 [![Gmail Badge](https://img.shields.io/badge/-jacksonkonjengbam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jacksonkonjengbam@gmail.com)
