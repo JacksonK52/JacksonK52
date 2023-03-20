@@ -1,6 +1,6 @@
 ## Hello there, I'm [Jackson Konjengbam](https://jackportfolio.ga) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 👨‍💻 I'm a Php web developer using Yii2 framework.
+- 👨‍💻 I'm a Php web developer using Laravel and Yii2 framework.
 - 🏢 I'm a senior developer at NIC.
 - 🔧 I would love too work on collaboration project.
 - 📞 How to reach me: Twitter - @Jacks0nK1.
